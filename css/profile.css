@@ -19,7 +19,10 @@ header .logos {
 header .whoami {
     font-family: 'Signika', sans-serif;
 }
+header .about-me {
 
+  padding-bottom: 15px;
+}
 .page-heading{
     position: relative;
     margin-bottom: 20px;
