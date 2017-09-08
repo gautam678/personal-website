@@ -20,7 +20,6 @@ header .whoami {
     font-family: 'Signika', sans-serif;
 }
 header .about-me {
-
   padding-bottom: 15px;
 }
 .page-heading{
@@ -88,5 +87,22 @@ font-family: 'Arvo', serif;
 font-size: 24px;
 }
 #portfolio .proj-des {
-  text-align: center;
+  text-align: justify;
+  font-size: 18px;
+}
+
+#portfolio .display ul{
+  list-style: none;
+  padding-top: 10px;
+  position: relative; left: -40px;
+}
+
+#portfolio .display li {
+  font-size: 15px;
+  font-weight: bold;
+  border: 1px solid black;
+  padding: 5px;
+  margin: 2px;
+  display: inline;
+
 }
