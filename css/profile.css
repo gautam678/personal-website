@@ -85,6 +85,7 @@ header .about-me {
 text-align: center;
 font-family: 'Arvo', serif;
 font-size: 24px;
+padding: 2px;
 }
 #portfolio .proj-des {
   text-align: justify;
