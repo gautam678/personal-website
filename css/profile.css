@@ -106,3 +106,34 @@ font-size: 24px;
   display: inline;
 
 }
+
+p {
+text-align: justify;
+}
+
+#show-more
+{
+  text-align: center;
+
+}
+
+#show-more .btn
+{
+  font-size: 20px;
+  opacity: 0.5;
+  background-color: white;
+  width: 180px;
+  border: 2px solid black;
+  padding: 20px;
+  margin: 20px;
+}
+#show-more .btn:hover
+{
+  opacity: 0.8;
+}
+
+#rasp
+{
+  width: 100%;
+  position: relative; left: -70px;
+}
