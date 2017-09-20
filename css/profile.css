@@ -75,17 +75,19 @@ header .about-me {
 }
 
 #portfolio .proj-img {
-  min-height: 100px;
-  min-width: 100px;
-  position: relative; left: 70px;
-  padding: 2px 10px 20px
+  position: relative;
+  height: 300px;
+  width: 260px;
+  left:39px;
+  padding: 5px 5px 5px;
+  box-shadow: 0 0 10px #000000;
 }
 
 #portfolio .proj-title {
 text-align: center;
 font-family: 'Arvo', serif;
 font-size: 24px;
-padding: 2px;
+padding: 5px;
 }
 #portfolio .proj-des {
   text-align: justify;
