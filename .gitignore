@@ -1,0 +1,4 @@
+vendor/*
+*.DS_Store
+img/portfolio/.DS_Store
+reports/*
