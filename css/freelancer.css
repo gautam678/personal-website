@@ -41,7 +41,6 @@ hr.star-primary {
 }
 hr.star-light:after,
 hr.star-primary:after {
-  content: "\f19c";
   font-family: FontAwesome;
   display: inline-block;
   position: relative;
