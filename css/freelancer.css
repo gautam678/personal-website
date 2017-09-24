@@ -60,7 +60,7 @@ hr.star-primary {
   border-color: #000000;
 }
 hr.star-primary:after {
-  background-color: white;
+  background-color: #E0E0E0;
   color: #000000;
 }
 .img-centered {
@@ -68,7 +68,7 @@ hr.star-primary:after {
 }
 header {
   text-align: center;
-  background: #FAFAFA;
+  background: #E0E0E0;
   color: #000000;
 }
 header .container {
@@ -111,7 +111,7 @@ header .intro-text .skills {
   }
 }
 .navbar-custom {
-  background: #FAFAFA;
+  background: #212121;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
@@ -132,18 +132,18 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-nav li a {
   font-family: 'Signika', sans-serif;
-  background-color: #FAFAFA;
-  color: #9E9E9E;
+  background-color: #212121;
 }
 .navbar-custom .navbar-nav li a:hover {
-  color: #03A9F4;
+  color: #E0E0E0;
 }
 
 .navbar-default .navbar-nav>.active>a,
 .navbar-default .navbar-nav>.active>a:focus,
 .navbar-default .navbar-nav>.active>a:hover
 {
-  background-color:#FAFAFA;
+  color: white;
+  background-color:#212121;
 }
 
 @media (min-width: 768px) {
@@ -174,7 +174,7 @@ section h2 {
   font-size: 3em;
 }
 section.success {
-  background: #FAFAFA;
+  background: #E0E0E0;
   color: #212121;
 }
 @media (max-width: 767px) {
